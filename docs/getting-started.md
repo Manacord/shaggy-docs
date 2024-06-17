@@ -32,7 +32,8 @@ By using `/settings set perms member <role>` you can set a exsiting role as memb
 By using `/settings set perms mute` you can set a exsiting role as mute role.
 By using `/settings create muterole` you can create a role with the permission <span style="color: red;">Send Messages</span> denied in every channel. Users can now be muted using `/mod mute <@member> [time] [reason]`. The default time is 48 hours for a time.
 
-!> Also necessary for the temp voice system. & <span style="color: red;">Any future channels created will not be covered by Mute Role.</span>
+!> Also necessary for the temp voice system.<br>
+Any future channels created will not be covered by Mute Role.
 
 
 ?> But more on the temp voice system later.
