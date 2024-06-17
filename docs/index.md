@@ -14,6 +14,7 @@ See the **[Getting Started](/getting-started)** guide for more details.
 - Moderation
 - Logging
 - Social Feeds
+- Temp Voice
 - A lot more...
 
 ## Support
