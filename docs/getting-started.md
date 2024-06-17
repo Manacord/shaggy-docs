@@ -9,23 +9,29 @@ This guide will cover everything you need to do to get started with the basics o
 
 
 + ### Logs
-By default, Manacord will log nothing. This isn't always what you want so let's say that you don't care about message edits.
+By default, Manacord will log **nothing**. This isn't always what you want so let's say that you don't care about message edits.
+
 The `/settings set log <type> <channel>` command turns on certain logs.
+
 The `/settings set log-aio` command turns on everything at once. The bot will automatically create a logging category with 6 log channels and cleverly divide all logs between these channels.
+
 Another thing you can do is ignore logs only in certain channels. For that you can use `/settings set log-ignore <channel>` to ignore all events from that channel. Logs are very customizable so make sure to head over that section for full information.
 
 
 + ### Team Roles
 By using `/settings set perms team <role>` you can set a exsiting role as staff role. You may want to add more than one role.
+
 !> At least one role must be set in order to use the Temp Voice system.
 
 + ### Member Role
 By using `/settings set perms member <role>` you can set a exsiting role as member role.
+
 !> Also necessary for the temp voice system.
 
 + ### Mute Role
 By using `/settings set perms mute` you can set a exsiting role as mute role.
 By using `/settings create muterole` you can create a role with the permission <span style="color: red;">Send Messages</span> denied in every channel. Users can now be muted using `/mod mute <@member> [time] [reason]`. The default time is 48 hours for a time.
+
 !> Also necessary for the temp voice system. & <span style="color: red;">Any future channels created will not be covered by Mute Role.</span>
 
 
@@ -64,6 +70,6 @@ To avoid problems, it is best to set the permiosson to <span style="color: red;"
 
 ### What is the drama channel? {docsify-ignore}
 This is a feature that aims to streamline your server's moderation. Automod is nice but it is not perfect as sometimes false positives happen. This feature was made for that exact reason. You need to:
-1. Set up the drama channel with the command `/settings set drama <channel>`.
+- Set up the drama channel with the command `/settings set drama <channel>`.
 
 ![Drama Channel](_images/faq_drama.png ':size=75%')
