@@ -56,7 +56,7 @@ Discord Settings > Advanced > Developer Mode > Enable
 
 ### Why does the bot complain about requiring more permissions? {docsify-ignore}
 The way Discord decides if you can add a role or not is based on two things:
-* Does the Member adding the role have <span style="color: red;">Manage Roles</span> permission?
+* Does the Member adding the role have Administrator permission?
 * Is the member trying to add a role higher in the role heirarchy than the bot's role?
 
 To avoid problems, it is best to set the permiosson to <span style="color: red;">administrator</span> by default.
