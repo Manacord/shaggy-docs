@@ -10,9 +10,10 @@ See the **[Getting Started](/getting-started)** guide for more details.
 
 - Welcome Messages
 - Reaction Roles
-- Suggestions
+- Advanced Suggestions
 - Moderation
 - Logging
+- Social Feeds
 - A lot more...
 
 ## Support
