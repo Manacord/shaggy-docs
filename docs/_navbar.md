@@ -3,3 +3,4 @@
 * [Donate](https://ko-fi.com/manacord)
 * Support
     * [Discord](https://dc.manacord.xyz)
+* [Partner](http://client.dashserv.io/a/manacord)
