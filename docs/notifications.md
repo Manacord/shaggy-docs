@@ -33,9 +33,9 @@ These variables can be used in the message that is sent when a streamer goes liv
 <!-- tab:Slash Commands -->
 Name              | Example           | Usage                                                                         
  ---------------- | ----------------- | -----------------------------------------------------------------------------
-**youtube user add** \<name> [id]<br><span class="user-permissions">Manage Server</span> | `/youtube user add https://youtube.come/UCX6OQ3DkcsbYNE6H8uQQuVA` | Binds the youtuber channel's alerts to the channel. Can use channel id only at the time (which is the most accurate way).
+**youtube user add** \<name> [id]<br><span class="user-permissions">Manage Server</span> | `/youtube user add UCX6OQ3DkcsbYNE6H8uQQuVA` | Binds the youtuber channel's alerts to the channel. Can use channel id only at the time (which is the most accurate way).
 **youtube list**<br><span class="user-permissions">Manage Server</span> | `/youtube list` | Shows all the binded youtubers and the connected channels.         
-**youtube user remove** \<name><br><span class="user-permissions">Manage Server</span> | `/youtube user remove https://youtube.come/UCX6OQ3DkcsbYNE6H8uQQuVA` | Unbinds a youtuber channel's alerts.
+**youtube user remove** \<name><br><span class="user-permissions">Manage Server</span> | `/youtube user remove UCX6OQ3DkcsbYNE6H8uQQuVA` | Unbinds a youtuber channel's alerts.
 
 <!-- tabs:end -->
 
