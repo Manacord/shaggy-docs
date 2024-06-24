@@ -13,7 +13,7 @@ Name              | Example           | Usage
 **twitch online**<br><span class="user-permissions">Manage Server</span> | `/twitch online`  | Shows all currently live streamers.                                           
 **twitch user remove** \<name><br><span class="user-permissions">Manage Server</span> | `/twitch user remove shroud` | Unbinds a streamer's live alerts.
 <!-- tabs:end -->
-?> **Information/Changes**<br>\<channel> and \<msg> are optimal and do not have to be used. If they are left empty, the global fallback properties are used.<br>User updates can be made if you use user add and just add/leav empty the options.
+?> **Information/Changes**<br>`<channel>` and `<msg>` are optimal and do not have to be used. If they are left empty, the global fallback properties are used.<br>User updates can be made if you use user add and just add/leav empty the options.
 
 
 ### Variables
