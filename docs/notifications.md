@@ -26,8 +26,6 @@ These variables can be used in the message that is sent when a streamer goes liv
 
 ## YouTube
 
-!> No custom messages possible at the moment, follow the update log!<br>This means that the variables for YouTube can currently be ignored.
-
 <!-- tabs:start -->
 
 <!-- tab:Slash Commands -->
