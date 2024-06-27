@@ -21,6 +21,7 @@ These variables can be used in the message that is sent when a streamer goes liv
 - `{link}` - Stream link
 - `{name}` - Streamer's username
 - `{game}` - Game being played
+- `{here}` - Tags @here
 - `{everyone}` - Tags @everyone
 
 
@@ -41,4 +42,5 @@ Name              | Example           | Usage
 These variables can be used in the message that is sent when a youtube alert is received:
 - `{link}` - Channel link
 - `{author}` - Channel name
+- `{here}` - Tags @here
 - `{everyone}` - Tags @everyone
