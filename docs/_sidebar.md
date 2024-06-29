@@ -5,5 +5,6 @@
 - [**Moderation**](moderation.md "Moderation")
 - [**Roles**](roles.md "Roles")
 - [**Suggestions**](suggestions.md "Suggestions")
+- [**Utilities**](utilities.md "Utilities")
 
 <footer id="mb-footer"></footer>
