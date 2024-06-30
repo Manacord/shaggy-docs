@@ -22,7 +22,6 @@ These variables can be used in the giveaway create:
 - `host` - Who hosts the giveaway? **Default: `NONE`** if you want a host to be shown, select a user accordingly.
 - `channel` - By default the giveaway will be posted to the channel where the command is executed, if you want a specific channel without executing the command there, select this channel accordingly
 
-
 ## Polls
 <!-- tabs:start -->
 
