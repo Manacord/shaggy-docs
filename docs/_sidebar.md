@@ -6,6 +6,5 @@
 - [**Roles**](roles.md "Roles")
 - [**Suggestions**](suggestions.md "Suggestions")
 - [**Utilities**](utilities.md "Utilities")
-- [**Games**](games.md "Games")
 
 <footer id="mb-footer"></footer>
