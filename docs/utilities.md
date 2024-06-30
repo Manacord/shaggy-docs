@@ -21,3 +21,14 @@ These variables can be used in the giveaway create:
 - `prize` - What can be won in this giveaway?
 - `host` - Who hosts the giveaway? **Default: `NONE`** if you want a host to be shown, select a user accordingly.
 - `channel` - By default the giveaway will be posted to the channel where the command is executed, if you want a specific channel without executing the command there, select this channel accordingly
+
+
+## Polls
+<!-- tabs:start -->
+
+<!-- tab:Slash Commands -->
+Name              | Example           | Usage                                                                         
+ ---------------- | ----------------- | ----------------------------------------------------------------------------- 
+**poll** \<question> [choices]<br><span class="user-permissions">Manage Server</span>  | `/poll Is this nice?` | Creates a thumbs up-down poll where users vote with reactions. Use `\|` or `,` to separate the choices.
+
+<!-- tabs:end -->
