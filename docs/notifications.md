@@ -1,5 +1,5 @@
 ## Twitch
-?> **Limits**<br>Non-Donor Manacord servers are limited to subscribing to 15 Twitch channel notifications.<br>Donor Manacord servers are unlimited to subscribing to how many Twitch channel notifications they want.
+?> **Limits**<br>Non-Donor Manacord servers are limited to subscribing to 15 Twitch/YouTube channel notifications.<br>Donor Manacord servers are unlimited to subscribing to how many Twitch channel notifications they want.
 
 <!-- ![Twitch](_images/twitch.png ':size=100%')-->
 
@@ -47,7 +47,7 @@ These variables can be used in the message that is sent when a youtube alert is 
 
 
 ## Free Game Alerts
-Get notified whenever there is a free game giveaway. Currently we only support Steam, Origin, Ubisoft, Epic Games Store, Android and GOG.
+?> Get notified whenever there is a free game giveaway. Currently we only support Steam, Origin, Ubisoft, Epic Games Store, Android and GOG.
 
 <!--![Free Game Alerts](_images/free_game_alerts.png)-->
 
