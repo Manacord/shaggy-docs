@@ -4,6 +4,7 @@
 - [**Logging**](logging.md "Logging")
 - [**Moderation**](moderation.md "Moderation")
 - [**Roles**](roles.md "Roles")
+- [**Tickets**](ticket.md "Tickets")
 - [**Suggestions**](suggestions.md "Suggestions")
 - [**Utilities**](utilities.md "Utilities")
 
