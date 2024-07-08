@@ -8,13 +8,14 @@ See the **[Getting Started](/getting-started)** guide for more details.
 
 ## Features
 
-- Welcome Messages
-- Reaction Roles
-- Advanced Suggestions
 - Moderation
 - Logging
 - Social Feeds
 - Temp Voice
+- Advanced Suggestions
+- Reaction Roles
+- Tickets
+- Welcome Messages
 
 ✔ **A lot more...**
 
