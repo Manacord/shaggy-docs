@@ -2,7 +2,6 @@
 ?> This feature is currently in open beta so expect frequent changes and updates.
 
 <!-- tabs:start -->
-
 <!-- tab:Slash Commands -->
 Name              | Example           | Usage                                                                         
  ---------------- | ----------------- | ----------------------------------------------------------------------------- 
@@ -11,7 +10,6 @@ Name              | Example           | Usage
 **giveaway end** \<giveaway_id><br><span class="user-permissions">Manage Server</span> | `/giveaway end 42` | Ends an ongoing giveaway prematurely. You will be asked if you want to announce winners or not.
 **giveaway list** [choice=active]<br><span class="user-permissions">Manage Server</span> | `/giveaway list inactive` | Shows the list of active/inactive giveaways.
 **giveaway participants** \<giveaway_id><br><span class="user-permissions">Manage Server</span> | `/giveaway participants 4` | Check the users that have participated in a particular giveaway.
-
 <!-- tabs:end -->
 
 ### Giveaway Create Infos
@@ -24,10 +22,8 @@ These variables can be used in the giveaway create:
 
 ## Polls
 <!-- tabs:start -->
-
 <!-- tab:Slash Commands -->
 Name              | Example           | Usage                                                                         
  ---------------- | ----------------- | ----------------------------------------------------------------------------- 
 **poll** \<question> [choices]<br><span class="user-permissions">Manage Server</span>  | `/poll Is this nice?` | Creates a thumbs up-down poll where users vote with reactions. Use `\|` or `,` to separate the choices.
-
 <!-- tabs:end -->
