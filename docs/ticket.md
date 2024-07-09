@@ -1,8 +1,6 @@
 ?> This feature is currently in open beta so expect frequent changes and updates.<br>Check booth command types below.
 
 ## Settings
-?> This feature is currently in open beta so expect frequent changes and updates.<br>Check booth command types below.
-
 <!-- tabs:start -->
 
 <!-- tab:Slash Commands -->
@@ -14,7 +12,6 @@ Name              | Example           | Usage
 
 
 ## Tickets
-
 <!-- tabs:start -->
 
 <!-- tab:Prefix Commands -->
