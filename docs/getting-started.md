@@ -67,10 +67,3 @@ The way Discord decides if you can add a role or not is based on two things:
 * Is the member trying to add a role higher in the role heirarchy than the bot's role?
 
 To avoid problems, it is best to set the permissions to <span style="color: red;">administrator</span> by default.
-
-
-### What is the drama channel? {docsify-ignore}
-This is a feature that aims to streamline your server's moderation. Automod is nice but it is not perfect as sometimes false positives happen. This feature was made for that exact reason. You need to:
-- Set up the drama channel with the command `/settings set drama <channel>`.
-
-![Drama Channel](_images/faq_drama.png ':size=75%')
