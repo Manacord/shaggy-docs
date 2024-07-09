@@ -7,7 +7,7 @@
 Name              | Example           | Usage                                                                         
  ---------------- | ----------------- | ----------------------------------------------------------------------------- 
 **ticket** <br><span class="user-permissions">Manage Server</span> | `/settings ticket #tickets` | Sets the category for new tickets.
-**ticket-limit** <br><span class="user-permissions">Manage Server</span> | `/ticket ticket-limit 5` | Sets the max open ticket amount per user.
+**ticket-limit** <br><span class="user-permissions">Manage Server</span> | `/settings ticket-limit 5` | Sets the max open ticket amount per user.
 <!-- tabs:end -->
 
 

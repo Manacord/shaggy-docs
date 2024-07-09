@@ -4,7 +4,6 @@
 <!-- ![Twitch](_images/twitch.png ':size=100%')-->
 
 <!-- tabs:start -->
-
 <!-- tab:Slash Commands -->
 Name              | Example           | Usage                                                                         
  ---------------- | ----------------- | ----------------------------------------------------------------------------- 
@@ -14,7 +13,6 @@ Name              | Example           | Usage
 **twitch user remove** \<name><br><span class="user-permissions">Manage Server</span> | `/twitch user remove shroud` | Unbinds a streamer's live alerts.
 <!-- tabs:end -->
 ?> **Information/Changes**<br>`<channel>` and `<msg>` are optimal and do not have to be used. If they are left empty, the global fallback properties are used.<br>User updates can be made if you use user add and just add/leav empty the options.
-
 
 ### Variables
 These variables can be used in the message that is sent when a streamer goes live:
@@ -28,14 +26,12 @@ These variables can be used in the message that is sent when a streamer goes liv
 ## YouTube
 
 <!-- tabs:start -->
-
 <!-- tab:Slash Commands -->
 Name              | Example           | Usage                                                                         
  ---------------- | ----------------- | -----------------------------------------------------------------------------
 **youtube user add** \<name> [id]<br><span class="user-permissions">Manage Server</span> | `/youtube user add UCX6OQ3DkcsbYNE6H8uQQuVA` | Binds the youtuber channel's alerts to the channel. Can use channel id only at the time (which is the most accurate way).
 **youtube list**<br><span class="user-permissions">Manage Server</span> | `/youtube list` | Shows all the binded youtubers and the connected channels.         
 **youtube user remove** \<name><br><span class="user-permissions">Manage Server</span> | `/youtube user remove UCX6OQ3DkcsbYNE6H8uQQuVA` | Unbinds a youtuber channel's alerts.
-
 <!-- tabs:end -->
 
 ### Variables
@@ -52,10 +48,8 @@ These variables can be used in the message that is sent when a youtube alert is 
 <!--![Free Game Alerts](_images/free_game_alerts.png)-->
 
 <!-- tabs:start -->
-
 <!-- tab:Slash Commands -->
 Name              | Example           | Usage                                                                         
  ---------------- | ----------------- | ----------------------------------------------------------------------------- 
-**games** [channel] | `/settings set games` | Get/Set the configuration for free game alerts.
-
+**games** [channel] | `/settings set games #freegames` | Get/Set the configuration for free game alerts.
 <!-- tabs:end -->
