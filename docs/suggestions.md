@@ -4,13 +4,14 @@
 
 ## Settings
 
+?> `suggestion-limit` This option is optimal and turned off by default.
 <!-- tabs:start -->
 
 <!-- tab:Slash Commands -->
 Name              | Example           | Usage                                                                         
  ---------------- | ----------------- | -----------------------------------------------------------------------------                      
 **suggestion** [channel=suggestions]<br><span class="user-permissions">Manage Server</span> | `/settings set suggestion` | Sets a channel as the suggestions channel.
-**suggestion-limit** \<limit><br><span class="user-permissions">Manage Server</span> | `/settings set suggestion-limit 5` | The amount of votes difference required to change the embed color to red/green. **This option is optimal and turned off by default.**
+**suggestion-limit** \<limit><br><span class="user-permissions">Manage Server</span> | `/settings set suggestion-limit 5` | The amount of votes difference required to change the embed color to red/green.
 
 <!-- tabs:end -->
 
