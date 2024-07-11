@@ -5,12 +5,12 @@
 <!-- tab:Prefix Commands -->
 Name              | Example           | Usage                                                                         
  ---------------- | ----------------- | ----------------------------------------------------------------------------- 
-**bday** [channel=current]<br><span class="user-permissions">Manage Roles</span> | `m?bday` | Sends the embed message for the birthday system in the same channel where the message is sent.
+**bday** [channel=current]<br><span class="user-permissions">Manage Server</span> | `m?bday` | Sends the embed message for the birthday system in the same channel where the message is sent.
 
 <!-- tab:Slash Commands -->
 Name              | Example           | Usage                                                                         
  ---------------- | ----------------- | ----------------------------------------------------------------------------- 
-**birthday-channel**<br><span class="user-permissions">Manage Roles</span> | `/settings birthday-channel` | Sets the channel for the birthday wishes.
-**birthday-role**<br><span class="user-permissions">Manage Roles</span> | `/settings birthday-role` | Sets the temporary role for the birthday user.
+**birthday-channel**<br><span class="user-permissions">Manage Server</span> | `/settings birthday-channel` | Sets the channel for the birthday wishes.
+**birthday-role**<br><span class="user-permissions">Manage Server</span> | `/settings birthday-role` | Sets the temporary role for the birthday user.
 
 <!-- tabs:end -->
