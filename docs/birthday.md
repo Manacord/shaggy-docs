@@ -1,5 +1,6 @@
 !> Check the Settings for setting up the birthday function!
 
+<!-- tabs:start -->
 <!-- tab:Prefix Commands -->
 Name              | Example           | Usage                                                                         
  ---------------- | ----------------- | ----------------------------------------------------------------------------- 
@@ -8,6 +9,7 @@ Name              | Example           | Usage
 
 
 ## Settings
+<!-- tabs:start -->
 <!-- tab:Slash Commands -->
 Name              | Example           | Usage                                                                         
  ---------------- | ----------------- | ----------------------------------------------------------------------------- 
