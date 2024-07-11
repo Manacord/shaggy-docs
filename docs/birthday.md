@@ -10,7 +10,7 @@ Name              | Example           | Usage
 <!-- tab:Slash Commands -->
 Name              | Example           | Usage                                                                         
  ---------------- | ----------------- | ----------------------------------------------------------------------------- 
-**birthday-channel** [channel=current]<br><span class="user-permissions">Manage Roles</span> | `/settings birthday-channel` | Sets the channel for the birthday wishes.
-**birthday-role** [channel=current]<br><span class="user-permissions">Manage Roles</span> | `/settings birthday-role` | Sets the temporary role for the birthday user.
+**birthday-channel**<br><span class="user-permissions">Manage Roles</span> | `/settings birthday-channel` | Sets the channel for the birthday wishes.
+**birthday-role**<br><span class="user-permissions">Manage Roles</span> | `/settings birthday-role` | Sets the temporary role for the birthday user.
 
 <!-- tabs:end -->
