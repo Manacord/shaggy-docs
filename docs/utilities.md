@@ -36,4 +36,4 @@ Name              | Example           | Usage
 <!-- tab:Prefix Commands -->
 Name              | Example           | Usage                                                                         
  ---------------- | ----------------- | ----------------------------------------------------------------------------- 
-**m?verify**<br><span class="user-permissions">Administrator</span> | `m?verify` | Creates the Verifying captcha message.
+**m?verify** [channel=current]<br><span class="user-permissions">Administrator</span> | `m?verify` | Creates the Verifying captcha message.
