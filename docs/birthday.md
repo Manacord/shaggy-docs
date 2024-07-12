@@ -4,7 +4,7 @@
 <!-- tab:Prefix Commands -->
 Name              | Example           | Usage                                                                         
  ---------------- | ----------------- | ----------------------------------------------------------------------------- 
-**m?bday** [channel=current]<br><span class="user-permissions">Manage Server</span> | `m?bday` | Sends the embed message for the birthday system in the same channel where the message is sent.
+**m?bday** [channel=current]<br><span class="user-permissions">Administrator</span> | `m?bday` | Sends the embed message for the birthday system in the same channel where the message is sent.
 <!-- tabs:end -->
 
 
