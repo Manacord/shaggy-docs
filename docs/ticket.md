@@ -17,7 +17,7 @@ Name              | Example           | Usage
 <!-- tab:Prefix Commands -->
 Name              | Example           | Usage                                                                         
  ---------------- | ----------------- | ----------------------------------------------------------------------------- 
-**m?ticket**<br><span class="user-permissions">Manage Server</span> | `m?ticket` | Creates the ticket in the channel you are sending the message to.
+**m?ticket**<br><span class="user-permissions">Administrator</span> | `m?ticket` | Creates the ticket in the channel you are sending the message to.
 
 <!-- tab:Slash Commands -->
 Name              | Example           | Usage                                                                         
