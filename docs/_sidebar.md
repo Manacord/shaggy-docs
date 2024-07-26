@@ -4,6 +4,7 @@
 - [**Suggestions**](suggestions.md "Suggestions")
 - [**Misc**](misc.md "Misc")
 - [**Utilities**](utilities.md "Utilities")
+- [**Starboard**](starboard.md "Starboard")
 - [**Birthdays**](birthday.md "Birthday")
 
 <footer id="mb-footer"></footer>
