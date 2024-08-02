@@ -51,5 +51,5 @@ These variables can be used in the message that is sent when a youtube alert is 
 <!-- tab:Slash Commands -->
 Name              | Example           | Usage                                                                         
  ---------------- | ----------------- | ----------------------------------------------------------------------------- 
-**games** [channel] | `/settings set games #freegames` | Get/Set the configuration for free game alerts.
+**games** [channel] | `/settings games #freegames` | Get/Set the configuration for free game alerts.
 <!-- tabs:end -->
