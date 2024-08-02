@@ -13,7 +13,7 @@ Name              | Example           | Usage
 <!-- tab:Slash Commands -->
 Name              | Example           | Usage                                                                         
  ---------------- | ----------------- | ----------------------------------------------------------------------------- 
-**birthday-channel**<br><span class="user-permissions">Manage Server</span> | `/settings set birthday-channel` | Sets the channel for the birthday wishes.
-**birthday-role**<br><span class="user-permissions">Manage Server</span> | `/settings set birthday-role` | Sets the temporary role for the birthday user.
-**birthday**<br><span class="user-permissions">Manage Server</span> | `/settings deactivate birthday` | Turns off the entire birthday function.
+**birthday-channel**<br><span class="user-permissions">Manage Server</span> | `/settings birthday enable` | Sets the channel for the birthday wishes.
+**birthday-role**<br><span class="user-permissions">Manage Server</span> | `/settings birthday role` | Sets the temporary role for the birthday user.
+**birthday**<br><span class="user-permissions">Manage Server</span> | `/settings birthday disable` | Turns off the entire birthday function.
 <!-- tabs:end -->
