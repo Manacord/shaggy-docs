@@ -1,5 +1,4 @@
-* [Invite](https://invite.manacord.xyz)
 * [Website](https://manacord.xyz)
-* [Donate](https://ko-fi.com/manacord)
+* [Invite](https://invite.manacord.xyz)
 * Support
     * [Discord](https://dc.manacord.xyz)
