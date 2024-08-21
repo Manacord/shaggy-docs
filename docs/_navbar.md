@@ -1,4 +1,4 @@
-* [Website](https://manacord.xyz)
-* [Invite](https://invite.manacord.xyz)
+* [Website](https://joink.xyz)
+* [Invite](https://invite.joink.xyz)
 * Support
-    * [Discord](https://dc.manacord.xyz)
+    * [Discord](https://dc.joink.xyz)
