@@ -1,4 +1,4 @@
-## Manacord
+## Joink Bot
 
 A fully customizable, multi-purpose and modular discord bot with endless list of features.
 
