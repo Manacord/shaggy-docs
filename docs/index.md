@@ -21,4 +21,4 @@ See the **[Getting Started](/getting-started)** guide for more details.
 
 ## Support
 
-Users and the development team usually provide support in the **[Manacord Help](https://dc.manacord.xyz)** Discord server.
+Users and the development team usually provide support in the **[Joink Help](https://dc.joink.xyz)** Discord server.
