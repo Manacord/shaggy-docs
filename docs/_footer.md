@@ -1,1 +1,1 @@
-Copyright © 2024 Manacord
+Copyright © 2024 Joink
