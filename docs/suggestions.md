@@ -10,8 +10,11 @@
 <!-- tab:Slash Commands -->
 Name              | Example           | Usage                                                                         
  ---------------- | ----------------- | -----------------------------------------------------------------------------                      
-**suggestion** [channel=suggestions]<br><span class="user-permissions">Manage Server</span> | `/settings suggestion` | Sets a channel as the suggestions channel.
-**suggestion-limit** \<limit><br><span class="user-permissions">Manage Server</span> | `/settings suggestion limit 5` | The amount of votes difference required to change the embed color to red/green.
+**suggestion setup** [channel=suggestions]<br><span class="user-permissions">Manage Server</span> | `/settings suggestion setup` | Sets a channel as the suggestions channel.
+**suggestion limit** \<limit><br><span class="user-permissions">Manage Server</span> | `/settings suggestion limit 5` | The amount of votes difference required to change the embed color to red/green.
+**suggestion duration** \<limit><br><span class="user-permissions">Manage Server</span> | `/settings suggestion duration 14d` | The length until a suggestion is automatically closed is 7 days by default.
+**suggestion decisions** \<limit><br><span class="user-permissions">Manage Server</span> | `/settings suggestion decisions aprove #suggest` | Lets you split the actions of a suggestion into various channels. [Suggestion Decisions](https://docs.joink.xyz/#/suggestions?id=suggestion-decisions)
+**suggestion disable** \<limit><br><span class="user-permissions">Manage Server</span> | `/settings suggestion disable` | Turns the entire suggestions system off.
 
 <!-- tabs:end -->
 
