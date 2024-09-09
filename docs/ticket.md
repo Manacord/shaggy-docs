@@ -6,8 +6,9 @@
 <!-- tab:Slash Commands -->
 Name              | Example           | Usage                                                                         
  ---------------- | ----------------- | ----------------------------------------------------------------------------- 
-**ticket** <br><span class="user-permissions">Manage Server</span> | `/settings ticket #tickets` | Sets the category for new tickets.
-**ticket-limit** <br><span class="user-permissions">Manage Server</span> | `/settings ticket-limit 5` | Sets the max open ticket amount per user.
+**ticket setup** <br><span class="user-permissions">Manage Server</span> | `/settings ticket setup #tickets` | Sets the category for new tickets.
+**ticket limit** <br><span class="user-permissions">Manage Server</span> | `/settings ticket limit 5` | Sets the max open ticket amount per user.
+**ticket disable** <br><span class="user-permissions">Manage Server</span> | `/settings disable` | Disables the ticket-system.
 <!-- tabs:end -->
 
 
@@ -18,6 +19,9 @@ Name              | Example           | Usage
 Name              | Example           | Usage                                                                         
  ---------------- | ----------------- | ----------------------------------------------------------------------------- 
 **m?ticket** [channel=current]<br><span class="user-permissions">Administrator</span> | `m?ticket` | Creates the ticket in the channel you are sending the message to.
+
+
+## Open Tickets
 
 <!-- tab:Slash Commands -->
 Name              | Example           | Usage                                                                         
