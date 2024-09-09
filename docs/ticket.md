@@ -12,16 +12,7 @@ Name              | Example           | Usage
 <!-- tabs:end -->
 
 
-## Tickets
-<!-- tabs:start -->
-
-<!-- tab:Prefix Commands -->
-Name              | Example           | Usage                                                                         
- ---------------- | ----------------- | ----------------------------------------------------------------------------- 
-**m?ticket** [channel=current]<br><span class="user-permissions">Administrator</span> | `m?ticket` | Creates the ticket in the channel you are sending the message to.
-
-
-## Open Tickets
+## Ticket Controls
 
 <!-- tab:Slash Commands -->
 Name              | Example           | Usage                                                                         
@@ -29,3 +20,12 @@ Name              | Example           | Usage
 **ticket add** <br><span class="user-permissions">Manage Server</span> | `/ticket add @Joink` | Allows you to add users and/or roles in a ticket.
 **ticket remove** <br><span class="user-permissions">Manage Server</span> | `/ticket remove @Joink` | Allows you to remove users and/or roles in a ticket.
 <!-- tabs:end -->
+
+
+## Create Ticket
+<!-- tabs:start -->
+
+<!-- tab:Prefix Commands -->
+Name              | Example           | Usage                                                                         
+ ---------------- | ----------------- | ----------------------------------------------------------------------------- 
+**m?ticket** [channel=current]<br><span class="user-permissions">Administrator</span> | `m?ticket` | Creates the ticket in the channel you are sending the message to.
