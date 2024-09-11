@@ -6,5 +6,6 @@
 - [**Utilities**](utilities.md "Utilities")
 - [**Starboard**](starboard.md "Starboard")
 - [**Birthdays**](birthday.md "Birthday")
+- [**Embeds**](embed.md "Embeds")
 
 <footer id="mb-footer"></footer>
