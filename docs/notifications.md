@@ -15,11 +15,12 @@ Name              | Example           | Usage
 <!-- tabs:end -->
 ?> **Information/Changes**<br>`<channel>` and `<msg>` are optimal and do not have to be used. If they are left empty, the global fallback properties are used.<br>User updates can be made if you use user add and just add/leav empty the options.
 
+
 ### Variables
 These variables can be used in the message that is sent when a streamer goes live:
-- `{link}` - Stream link
-- `{name}` - Streamer's username
-- `{game}` - Game being played
+- `{link}` - Shows the stream link
+- `{name}` - Shows the streamer's username
+- `{game}` - SHows the Game being played
 - `{here}` - Tags @here
 - `{everyone}` - Tags @everyone
 
