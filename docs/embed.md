@@ -1,5 +1,5 @@
 ## Embed limits
-?> There are a few limits to be aware of while planning your embeds due to the API's limitations. Here is a quick reference you can come back to:
+!> There are a few limits to be aware of while planning your embeds due to the API's limitations. Here is a quick reference you can come back to:
 
 - Embed titles are limited to 256 characters
 - Embed descriptions are limited to 4096 characters
