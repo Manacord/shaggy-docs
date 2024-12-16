@@ -1,1 +1,1 @@
-Copyright © 2024 Joink
+Copyright © 2024 Shaggy-bot
