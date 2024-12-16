@@ -17,8 +17,8 @@ Name              | Example           | Usage
 <!-- tab:Slash Commands -->
 Name              | Example           | Usage                                                                         
  ---------------- | ----------------- | ----------------------------------------------------------------------------- 
-**ticket add** <br><span class="user-permissions">Manage Server</span> | `/ticket add @Joink` | Allows you to add users and/or roles in a ticket.
-**ticket remove** <br><span class="user-permissions">Manage Server</span> | `/ticket remove @Joink` | Allows you to remove users and/or roles in a ticket.
+**ticket add** <br><span class="user-permissions">Manage Server</span> | `/ticket add @Shaggy` | Allows you to add users and/or roles in a ticket.
+**ticket remove** <br><span class="user-permissions">Manage Server</span> | `/ticket remove @Shaggy` | Allows you to remove users and/or roles in a ticket.
 <!-- tabs:end -->
 
 
