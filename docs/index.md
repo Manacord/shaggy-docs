@@ -1,4 +1,4 @@
-## Joink Bot
+## Shaggy Bot
 
 A fully customizable, multi-purpose and modular discord bot with endless list of features.
 
@@ -21,4 +21,4 @@ See the **[Getting Started](/getting-started)** guide for more details.
 
 ## Support
 
-Users and the development team usually provide support in the **[Joink Help](https://dc.joink.xyz)** Discord server.
+Users and the development team usually provide support in the **[Shaggy Help](https://dc.sshag.gg)** Discord server.
