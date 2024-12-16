@@ -1,5 +1,5 @@
 ## Twitch
-?> **Limits**<br>Non-Donor Joink servers are limited to subscribing to 15 Twitch/YouTube channel notifications.<br>Donor Joink servers are unlimited to subscribing to how many Twitch channel notifications they want.
+?> **Limits**<br>Non-Donor Shaggy servers are limited to subscribing to 15 Twitch/YouTube channel notifications.<br>Donor Shaggy servers are unlimited to subscribing to how many Twitch channel notifications they want.
 
 <!-- ![Twitch](_images/twitch.png ':size=100%')-->
 
