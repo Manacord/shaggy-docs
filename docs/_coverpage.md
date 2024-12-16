@@ -1,6 +1,6 @@
 ![logo](_media/logo.png ':size=100')
 
-# Joink Bot
+# Shaggy Bot
 
 > Welcome to the Documentation
 
