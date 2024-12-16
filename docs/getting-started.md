@@ -9,7 +9,7 @@ This guide will cover everything you need to do to get started with the basics o
 
 
 + ### Logs
-By default, Joink will log **nothing**. This isn't always what you want so let's say that you don't care about message edits.
+By default, Shaggy will log **nothing**. This isn't always what you want so let's say that you don't care about message edits.
 
 The `/settings log <type> <channel>` command turns on certain logs.
 
@@ -37,9 +37,9 @@ Any future channels created will not be covered by Mute Role.
 You can set the welcome message that would be sent in the set channel using `/settings welcome enable`.
 
 + ### Prefix
-By default, Joink responds to `m?` *(In rare cases)* prefixes as well as `/` slash commands.
+By default, Shaggy responds to `m?` *(In rare cases)* prefixes as well as `/` slash commands.
 
-This is far from everything Joink has to offer but at this point you will have set up the crucial things that you can set up.
+This is far from everything Shaggy has to offer but at this point you will have set up the crucial things that you can set up.
 
 
 ## FAQ
